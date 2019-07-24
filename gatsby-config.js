@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Queenie's Blog`,
-    author: `Kyle Mathews`,
-    description: `Bienvenido a mi blog de comida.`,
+    author: `Álvaro Goede`,
+    description: `Mi blog de comida.`,
     siteUrl: `https://queenie.cl/`,
     social: {
       instagram: `queeniecmoya`,
@@ -58,7 +58,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Queenie's Blog`,
-        short_name: `Queenie`,
+        short_name: `Queenie's Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
