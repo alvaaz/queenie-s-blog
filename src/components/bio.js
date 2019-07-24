@@ -54,11 +54,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Escrito por <strong>{author}</strong> que vive y estudia Enfermería en Viña del Mar.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+        <a href={`https://instagram.com/${social.instagram}`}>
+          Sígueme en Instagram.
         </a>
       </p>
     </div>

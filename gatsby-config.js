@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Queenie's Blog`,
-    author: `Álvaro Goede`,
+    author: `Queenie`,
     description: `Mi blog de comida.`,
     siteUrl: `https://queenie.cl/`,
     social: {
