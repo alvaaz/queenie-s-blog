@@ -1,4 +1,8 @@
-# Rollos de Canela
+---
+title: Rollitos de canela
+date: "2019-07-24T22:12:03.284Z"
+description: "Receta para realizar unos exquisitos rollitos de canela."
+---
 
 En lo personal no me encanta la canela y probé estos rollos en un café porque se veían apetitosos y que a mucha gente les gustaba. Pues ¡ME ENCANTARON! Pero la verdad eran un poco caros, por lo que pensé dos cosas… Uno es que ¡quiero que más gente pruebe esta delicia! Y dos, ¿y porque no las hago yo misma? Elegí un día de lluvia perfecto para acompañar esto con un rico café. Es económico y salen bastantes rollitos. ¡Te vas a obsesionar y querrás hacer siempre!
 
